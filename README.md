@@ -50,4 +50,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/florenciaefarias)
 - 💬 [WhatsApp](https://wa.me/5401140857479)
 
-agregar en las tecnologias: python, excel, google sheets, java, javascript, html y css
